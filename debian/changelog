@@ -1,3 +1,9 @@
+cloud-init (0.7.5-1rackspace2) trusty-rackspace; urgency=medium
+
+  * Fix interface file generation for bonds.
+
+ -- Paul Querna <pquerna@apache.org>  Wed, 20 Aug 2014 20:46:00 +0000
+
 cloud-init (0.7.5-1rackspace1) trusty-rackspace; urgency=medium
 
   * Add support for Rackspace OnMetal's ConfigDrive.
