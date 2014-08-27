@@ -1,3 +1,10 @@
+cloud-init (0.7.5-1rackspace3) trusty-rackspace; urgency=medium
+
+  * Set bonding options.
+  * Support Python 2.6.
+
+ -- Paul Querna <pquerna@apache.org>  Wed, 27 Aug 2014 22:54:04 +0000
+
 cloud-init (0.7.5-1rackspace2) trusty-rackspace; urgency=medium
 
   * Fix interface file generation for bonds.
